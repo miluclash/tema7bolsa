@@ -9,6 +9,6 @@ import java.time.LocalDate;
  * INSTRUCCIÓN: Renombra esta clase a StockData + tus iniciales.
  * Ejemplo: StockDataABR
  */
-public class StockDataXXX {
-
+public class StockDataMZCG {
+	//private final LocalDate date, private final double closePrice : no puede ser final 
     }

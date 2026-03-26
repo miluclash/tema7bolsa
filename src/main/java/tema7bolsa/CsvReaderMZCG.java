@@ -21,6 +21,6 @@ import java.util.List;
  *
  * INSTRUCCIÓN: Renombra esta clase a CsvReader + tus iniciales.
  */
-public class CsvReaderXXX {
+public class CsvReaderMZCG {
 
    }

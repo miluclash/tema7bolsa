@@ -21,6 +21,6 @@ import java.util.stream.Collectors;
  *   5. Gráfica del 2do semestre: real (verde) vs estimado (naranja)
  *   6. Resumen en consola de desviación mensual (julio-diciembre)
  */
-public class MainStockXXX {
+public class MainStockMZCG {
 
    }

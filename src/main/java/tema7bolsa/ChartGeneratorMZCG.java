@@ -23,6 +23,6 @@ import java.util.List;
  *
  * INSTRUCCIÓN: Renombra esta clase a ChartGenerator + tus iniciales.
  */
-public class ChartGeneratorXXX {
+public class ChartGeneratorMZCG {
 
    }

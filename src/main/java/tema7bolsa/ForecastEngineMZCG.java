@@ -15,6 +15,6 @@ import java.util.*;
  *
  * INSTRUCCIÓN: Renombra esta clase a ForecastEngine + tus iniciales.
  */
-public class ForecastEngineXXX {
+public class ForecastEngineMZCG {
 
   }
